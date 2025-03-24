@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on The Simple Engineer Blog</title>
+    <link>https://thesimpleengineer.github.io.git/posts/</link>
+    <description>Recent content in Posts on The Simple Engineer Blog</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Mar 2025 16:28:04 -0400</lastBuildDate>
+    <atom:link href="https://thesimpleengineer.github.io.git/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost</title>
+      <link>https://thesimpleengineer.github.io.git/posts/mypost/</link>
+      <pubDate>Mon, 24 Mar 2025 16:28:04 -0400</pubDate>
+      <guid>https://thesimpleengineer.github.io.git/posts/mypost/</guid>
+      <description>&lt;p&gt;This is some content&lt;/p&gt;
+&lt;h3 id=&#34;java&#34;&gt;Java&lt;/h3&gt;
+&lt;p&gt;Testando se está tudo certo&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
